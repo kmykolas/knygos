@@ -1,0 +1,11 @@
+a{
+    cursor: pointer;
+}
+
+table#book-list tr{
+    cursor: pointer;
+}
+
+table#book-list tr:hover{
+    color:#337AB7;
+}
